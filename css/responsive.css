@@ -9,7 +9,7 @@
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	#mainNav {
-		background-color: #ffffff;
+		background-color: transparent;
 	}
 	.navbar-dark .navbar-brand{
 		width: 55%;
@@ -77,7 +77,7 @@
 }
 @media (max-width: 767px) {
 	#mainNav {
-		background-color: #ffffff;
+		background-color: transparent;
 	}
 	.navbar-dark .navbar-brand{
 		width: 55%;
@@ -142,7 +142,7 @@
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
 	#mainNav {
-		background-color: #ffffff;
+		background-color: transparent;
 	}
 	.navbar-dark .navbar-brand{
 		width: 55%;
@@ -198,5 +198,5 @@
 	.snip1401 h3{
 		font-size: 16px;
 	}
-	
+
 }
